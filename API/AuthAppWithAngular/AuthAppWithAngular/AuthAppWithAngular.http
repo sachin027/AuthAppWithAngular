@@ -1,0 +1,6 @@
+@AuthAppWithAngular_HostAddress = http://localhost:5007
+
+GET {{AuthAppWithAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
